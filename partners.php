@@ -21,7 +21,7 @@
                                 <strong> Doble Engineering Company, USA.</strong> <br>
                                 •   Complete diagnostic solutions of power equipments.<br>
                                 •   Complete electrical asset analysis and condition monitoring.<br>
-                                •   Complete range of electrical test equipment, measuring instruments, predictive, periodic and preventive maintenance and products. <br>
+                                •   Complete range of electrical test equipment, measuring instruments, predictive, periodic and preventive maintenance, products, solutions, and services. <br>
                                <a href="http://www.doble.com" target="_blank">www.doble.com</a>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                             <div class="partners_content clearfix" >                            
                                 <strong>Altanova Group, Italy.</strong> <br>
                                 <li>Online and offline condition monitoring of transformers GIS and cables.</li>
-                                <li>Complete range of electrical test equipment, measuring instruments, predictive, periodic and preventive maintenance and products.</li>
+                                <li>Complete range of electrical test equipment, measuring instruments, predictive, periodic and preventive maintenance, products, solutions, and services.</li>
                                 <a href="https://www.altanova-group.com/en" target="_blank">www.altanova-group.com</a>
                             </div>
                         </div>
@@ -146,14 +146,15 @@
                                 <img class="partners_img rounded img-responsive " src="images/powerchina.png">
                             </div>   
                              <div class="partners_content clearfix">
-                                <strong>Power China International Group Limited, P. R. China
+                                <strong>PowerChina International Group Limited, P. R. China
 </strong><br>
+                                •   Wind Energy<br>
                                 •   Power Plants<br>
                                 •   HV & EHV Transmission Lines<br>
                                 •   HV & EHV Sub Stations<br>
-                                •   Solar Projects <br>
-                                •   EPC in Multidisciplinary Sectors <br>
-                                •   Including Hybrid And Nuclear <br>
+                                •   Solar plants <br>
+                                •   Nuclear plants <br>
+                                •   EPC in multidisciplinary sectors <br>
                                  <a href="http://www.powerchina-intl.com" target="_blank">www.powerchina-intl.com</a>
                             </div>
                         </div>    
