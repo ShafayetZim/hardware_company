@@ -48,7 +48,7 @@
  <li>Optimum safety features.</li>
  <li>Operating software that provides automation, data acquisition, remote control and capabilities to
  meet demanding testing applications.  </li>
- <li>Over 24+  years' experience.  </li>
+ <li>Over 24<sup>+</sup> years' experience.  </li>
 </ul>
 
 
@@ -108,7 +108,7 @@
                                 <a href="http://www.powerchina.cn" target="_blank">www.powerchina.cn</a>
                             </p>
                             
-                            <p>8. Power China International Group Ltd., P. R. China  </p>
+                            <p>8. PowerChina International Group Limited, P. R. China  </p>
                             <p>
                                 <a href="http://www.powerchina-intl.com/" target="_blank">www.powerchina-intl.com</a>
                             </p>
