@@ -68,6 +68,56 @@
     
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script>
+      const slides = document.querySelectorAll(".slide");
+      const dots = document.querySelectorAll(".dot");
+      let currentSlide = 0;
+
+      function showSlide() {
+        slides.forEach((slide, index) => {
+          if (index === currentSlide) {
+            slide.classList.add("active");
+            dots[index].classList.add("active"); // Add active class to corresponding dot
+          } else {
+            slide.classList.remove("active");
+            dots[index].classList.remove("active"); // Remove active class from other dots
+          }
+        });
+      }
+
+      function jumpToSlide(index) {
+        currentSlide = index;
+        showSlide();
+      }
+
+      dots.forEach((dot, index) => {
+        dot.addEventListener("click", () => {
+          jumpToSlide(index);
+        });
+      });
+
+      showSlide(); // Show initial slide
+
+      function nextSlide() {
+        currentSlide++;
+        if (currentSlide >= slides.length) {
+          currentSlide = 0;
+        }
+        showSlide();
+      }
+
+      function previousSlide() {
+        currentSlide--;
+        if (currentSlide < 0) {
+          currentSlide = slides.length - 1;
+        }
+        showSlide();
+      }
+
+      showSlide(); // Show initial slide
+
+      setInterval(nextSlide, 5000); // Auto slide every 5 seconds (optional)
+    </script>
 	
 </body>
 </html>

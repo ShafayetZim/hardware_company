@@ -33,6 +33,37 @@
     <div class="container-fluid">
         <div class="container">
             <div class="row">
+            <div class="col-md-12 middle-section">
+                <p>Automatic sling Product</p>
+                <div class="slide active">
+                    <img src="image1.jpg" alt="Image 1" />
+                    <div class="slide-content">
+                      <h2>DESIGNED TO YOUR REQUIREMENTS</h2>
+                      <p>
+                        Measure dielectric breakdown and strength of electrical equipment
+                        and insulating materials at all commercial power frequencies.
+                      </p>
+                      <a href="#" class="button">Button 1</a>
+                    </div>
+                </div>
+                <div class="slide">
+                    <img src="image2.jpg" alt="Image 2" />
+                    <div class="slide-content">
+                      <h2>Heading 2</h2>
+                      <p>Paragraph 2</p>
+                      <a href="#" class="button">Button 2</a>
+                    </div>
+                </div>
+                <div class="slide">
+                    <img src="image3.jpg" alt="Image 3" />
+                    <div class="slide-content">
+                      <h2>Heading 3</h2>
+                      <p>Paragraph 3</p>
+                      <a href="#" class="button">Button 3</a>
+                    </div>
+                </div>
+            </div>
+
                 <div class="col-md-6 middle-section">
                     <div class="advantage-section">
                         <h2>The M2K Advantages</h2>
@@ -124,6 +155,7 @@
             </div>
         </div>
     </div>
+
 
     <div class="subscribe-section">
         <div class="container">
