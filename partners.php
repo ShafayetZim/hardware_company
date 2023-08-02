@@ -51,7 +51,7 @@
                            <div class="img_sec">
                                 <img class="partners_img rounded" src="images/phenix.png">
                             </div>
-                            <div class="partners_content">
+                            <div class="partners_content clearfix">
                                 <strong> Phenix Technologies Inc., USA. </strong> <br>
                                 <b>Phenix Systems AG, Switzerland.</b> <br>
                                 ( A Doble Company )<br>
