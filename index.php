@@ -156,6 +156,20 @@
         </div>
     </div>
 
+    <div class="event-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 event-content">
+                    <h2>Checkout Our Events</h2>
+                </div>
+
+                <div class="col-md-6 subscribe-content">
+                    <a href="event.php" class="btn btn-outline-primary btn-lg">Check</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <div class="subscribe-section">
         <div class="container">
