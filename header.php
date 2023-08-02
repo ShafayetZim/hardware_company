@@ -13,6 +13,7 @@
     <link href="css/jquery.fancybox.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css">
 </head>
 <body>
     <header>
